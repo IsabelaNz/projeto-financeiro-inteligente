@@ -1,4 +1,4 @@
-package org.domain.model;
+package com.projetofinanceiro.domain.model;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 
