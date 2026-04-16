@@ -1,5 +1,5 @@
 package com.projetofinanceiro.domain.model;
 
-public enum EnumTransacao {
+public enum EnumCategoriaTransacao {
 
 }

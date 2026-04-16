@@ -1,4 +1,4 @@
 package com.projetofinanceiro.application.usecase;
 
-public class UseCase {
+public class TransacaoUseCaseImpl {
 }

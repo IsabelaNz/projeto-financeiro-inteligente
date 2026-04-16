@@ -1,4 +1,4 @@
 package com.projetofinanceiro.adapter.in.web.controller;
 
-public class Controller {
+public class TransacaoController {
 }
